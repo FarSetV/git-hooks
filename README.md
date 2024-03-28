@@ -1,4 +1,4 @@
-# git-hooks
+# git-hooks auto-ufw-mod
 Simple script to add Git-hub hooks to UFW
 ## Usage
 Download script and add in crontab
