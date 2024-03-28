@@ -1,5 +1,5 @@
 # git-hooks auto-ufw-mod
-Simple script to add Git-hub hooks to UFW
+Simple script to add Git-hub IP-address hooks-API to UFW
 ## Usage
 Download script and add in crontab
 ```bash
